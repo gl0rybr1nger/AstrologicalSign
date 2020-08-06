@@ -1,0 +1,13 @@
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.exe
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.deps.json
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.runtimeconfig.json
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.runtimeconfig.dev.json
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.dll
+F:\nick\code\vs2019\AstrologicalSignB\bin\Debug\netcoreapp3.1\AstrologicalSignB.pdb
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.csprojAssemblyReference.cache
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.AssemblyInfoInputs.cache
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.AssemblyInfo.cs
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.csproj.CoreCompileInputs.cache
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.dll
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.pdb
+F:\nick\code\vs2019\AstrologicalSignB\obj\Debug\netcoreapp3.1\AstrologicalSignB.genruntimeconfig.cache
